@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60751252571",
+    "project_id": "chatwave-5e238",
+    "storage_bucket": "chatwave-5e238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60751252571:android:4426b4618fab7ec26f837e",
+        "android_client_info": {
+          "package_name": "com.jasmeet.chatwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEAJVVvUP7qmorO56Sh4S7n00okNnU-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
